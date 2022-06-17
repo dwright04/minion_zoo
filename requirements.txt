@@ -1,7 +1,7 @@
 docutils==0.14
 MarkupSafe==1.0
 matplotlib==2.0.0
-numpy==1.12.0
+numpy==1.21.0
 numpydoc==0.7.0
 packaging==16.8
 py==1.4.32
